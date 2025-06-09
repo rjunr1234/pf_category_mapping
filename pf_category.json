@@ -1,0 +1,649 @@
+{
+    "SZ": {
+        "CPB": {
+            "Selection Ramp": {
+                "Pricing": [
+                    "APB FOD ASINs Exclusive",
+                    "Peer ASIN Audit"
+                ],
+                "DP Optimization": [
+                    "PDT SEO WTS CMT Mapping",
+                    "PDT SEO WTS CMT Uploading",
+                    "Document Upload"
+                ],
+                "Brand Implementation": [
+                    "Key Attributes Value Generation",
+                    "Brand Change",
+                    "Brand Refresh"
+                ]
+            },
+            "Minimum Health Check": {
+                "Catalog Defect Reduction": [
+                    "Generic Keyword Defect"
+                ]
+            },
+            "Others": {
+                "PBC Externalization": [
+                    "PBC Vendor Facing Support",
+                    "PBC UAT"
+                ],
+                "Others": [
+                    "Vendor Training and Magentrix"
+                ]
+            }
+        },
+        "HPB": {
+            "Selection Ramp": {
+                "Pricing": [
+                    "APB FOD ASINs Exclusive",
+                    "CMT Intake(Audit/Match)",
+                    "EUX List Price Synchronization",
+                    "Peer ASIN Audit"
+                ],
+                "Promotion Implementation": [
+                    "Deal Creation",
+                    "Coupon"
+                ],
+                "Value Pick": [
+                    "Value Pick"
+                ],
+                "Virtual Bundle": [
+                    "Virtual Bundle"
+                ],
+                "PO Management": [
+                    "CMP Forecast Vendor Communication",
+                    "Document Co-Ordination",
+                    "Early Shipment For OOS Risk ASIN",
+                    "GPE Conversion",
+                    "Non-OTIF Reason Vendor Communication",
+                    "PO Defect Remediation",
+                    "S3 Upload For SCM Dashboard",
+                    "Ship Window Change",
+                    "Unconfirmed PO Vendor Feedback Collection",
+                    "Re-certification of decertified ASINs",
+                    "Identify packaging optimization opportunities",
+                    "HPB PO production tracking",
+                    "Air Freight Operations"
+                ],
+                "DP Optimization": [
+                    "General DP Update Bullet Point",
+                    "General DP Update Others",
+                    "General DP Update Title",
+                    "PDT SEO WTS Bullet Points Update",
+                    "PDT SEO WTS CMT Mapping",
+                    "PDT SEO WTS CMT Uploading",
+                    "PDT SEO WTS Image",
+                    "PDT SEO WTS List Price Update",
+                    "Search Rank Improvement BP",
+                    "Search Rank Improvement GK",
+                    "Search Rank Improvement Title",
+                    "DP Optimization WTS Title",
+                    "DP Optimization WTS Bullet Point",
+                    "DP Optimization WTS Image",
+                    "DP Optimization WTS Others",
+                    "Document Upload"
+                ],
+                "Brand Implementation": [
+                    "Key Attributes Value Generation",
+                    "Brand Change",
+                    "Brand Refresh"
+                ]
+            },
+            "Others": {
+                "Others": [
+                    "Amazon Retail Analytics",
+                    "Vendor Training and Magentrix"
+                ],
+                "PBC Externalization": [
+                    "PBC Vendor Facing Support",
+                    "PBC UAT"
+                ]
+            },
+            "GlobalX": {
+                "GlobalX-ASIN Creation": [
+                    "ASIN Set Up",
+                    "Variation Set Up"
+                ],
+                "GlobalX-DP Creation": [
+                    "DP Expansion"
+                ],
+                "GlobalX-Vendor Confirmation": [
+                    "Vendor Confirmation"
+                ],
+                "GlobalX-DP Launch": [
+                    "DP Flip"
+                ]
+            },
+            "Selection Development": {
+                "Global ASIN Creation": [
+                    "Catalog On-Boarding",
+                    "Net ASIN Creation"
+                ],
+                "Initial PO Placement": [
+                    "Packaging Certification"
+                ]
+            },
+            "Minimum Health Check": {
+                "Detail Page Defect Reduction": [
+                    "APLUS Defect",
+                    "Browse Node Defect",
+                    "Bullet Point Defect",
+                    "COO Defect",
+                    "Detail Page Defect Remediation",
+                    "DP Update",
+                    "Image Defect",
+                    "Product Description Defect",
+                    "Title Defect",
+                    "Variation Defect",
+                    "Item Dimension & Weight Defect",
+                    "Package Dimension & Weight Defect"
+                ],
+                "Catalog Defect Reduction": [
+                    "Brand ID Defect",
+                    "Brand Name Defect",
+                    "Catalog Defect Remediation",
+                    "Generic Keyword Defect",
+                    "GL/Category/Subcategory Defect",
+                    "Import Designation Defect",
+                    "List Price Defect",
+                    "Manufacturer Defect",
+                    "Program Member Defect"
+                ],
+                "Buyability Defect Reduction": [
+                    "Unbuyable ASIN Remediation"
+                ]
+            }
+        },
+        "SPB": {
+            "Selection Ramp": {
+                "Pricing": [
+                    "APB FOD ASINs Exclusive",
+                    "Peer ASIN Audit"
+                ],
+                "DP Optimization": [
+                    "PDT SEO WTS CMT Mapping",
+                    "PDT SEO WTS CMT Uploading"
+                ],
+                "Promotion Implementation": [
+                    "Deal Creation",
+                    "Coupon Creation"
+                ],
+                "Brand Implementation": [
+                    "Key Attributes Value Generation",
+                    "Brand Change",
+                    "Brand Refresh"
+                ]
+            },
+            "Others": {
+                "PBC Externalization": [
+                    "PBC Vendor Facing Support",
+                    "PBC UAT"
+                ],
+                "Others": [
+                    "Vendor Training and Magentrix"
+                ]
+            }
+        }
+    },
+    "IN": {
+        "SPB": {
+            "Others": {
+                "Others": [
+                    "Associate Handbook",
+                    "ASIN Dimension Audit",
+                    "Newsletter",
+                    "Scripts Upload (EU)"
+                ]
+            },
+            "Selection Ramp": {
+                "Promotion Implementation": [
+                    "Marketing Campaign Building (Gateway, Email, HQP)",
+                    "Deal Creation",
+                    "Coupon Creation",
+                    "MENA Deal Image"
+                ],
+                "PO Management": [
+                    "Addition To Ordering",
+                    "Buying Inputs Upload in S3",
+                    "Chargeback Waiver",
+                    "Fabric ASIN Mapping in S3",
+                    "MENA PO Edits",
+                    "PO Management",
+                    "PO Management (Flojo)",
+                    "PO Management Recut"
+                ],
+                "VINE Enrollment": [
+                    "Vine Chaser",
+                    "Vine Invoicing"
+                ],
+                "DP Optimization": [
+                    "Customer Love Optimization A+ Content",
+                    "Customer Love Optimization Attribute",
+                    "Customer Love Optimization Bullet Point",
+                    "Customer Love Optimization Image",
+                    "Customer Love Optimization Title",
+                    "General DP Update Bullet Point",
+                    "General DP Update Image",
+                    "General DP Update Others",
+                    "General DP Update Title",
+                    "Jewelry",
+                    "PDT SEO WTS Image",
+                    "PDT SEO WTS List Price Update",
+                    "PDT SEO WTS Others",
+                    "PDT SEO WTS Title",
+                    "PDT SEO WTS Variation",
+                    "Search Rank Improvement BP",
+                    "Search Rank Improvement GK",
+                    "Search Rank Improvement Title",
+                    "DP Optimization WTS Title",
+                    "DP Optimization WTS Bullet Point",
+                    "DP Optimization WTS Image",
+                    "DP Optimization WTS Others"
+                ],
+                "Brand Implementation": [
+                    "Key Attributes Value Generation",
+                    "Brand Change",
+                    "Brand Refresh"
+                ]
+            },
+            "Selection Development": {
+                "Detail Page Creation": [
+                    "A+ Content Creation and Updates",
+                    "A+ Content Creation and Updates (Flojo)",
+                    "AMS Brand Store Creation and Updates",
+                    "Landing Page"
+                ],
+                "Global ASIN Creation": [
+                    "APB Localization",
+                    "ASIN Creation (Flojo)",
+                    "ASIN Creation (US-Turing)",
+                    "Category and Subcategory Creation",
+                    "MENA ASIN Creation",
+                    "MENA ASIN Localization",
+                    "Non-Apparel ASIN Creation",
+                    "Vendor Offer Updater"
+                ],
+                "Others": [
+                    "ASIN Launch (Flojo)"
+                ],
+                "Media Block Management": [
+                    "Sample Management",
+                    "Sample Image Management",
+                    "Sample Invoice"
+                ],
+                "Global Vendor Code Creation": [
+                    "Vendor On-Boarding",
+                    "Contra Cogs",
+                    "Vendor Code Update"
+                ],
+                "Defect Free DP launch": [
+                    "EU Auto Launch",
+                    "US DP Launch"
+                ],
+                "Initial PO Placement": [
+                    "Flojo PO Creation",
+                    "PO Checklist and Creation"
+                ]
+            },
+            "GlobalX": {
+                "GlobalX-ASIN Creation": [
+                    "GlobalX- List Price Backfill",
+                    "GlobalX-Localization",
+                    "GlobalX- Other Catalog Attributes Backfill",
+                    "Variation Set Up"
+                ],
+                "GlobalX-DP Creation": [
+                    "GlobalX- Brand Story Upload",
+                    "GlobalX -Size Chart Upload"
+                ],
+                "GlobalX-DP Launch": [
+                    "DP Flip"
+                ]
+            },
+            "Selection Deprecation": {
+                "ASIN Deprecation": [
+                    "ASIN Deprecation",
+                    "Un-Deprecation"
+                ]
+            },
+            "Minimum Health Check": {
+                "Buyability Defect Reduction": [
+                    "ASIN Buyability Checks (JP)",
+                    "Buyability",
+                    "Unbuyable ASIN Remediation"
+                ],
+                "Detail Page Defect Reduction": [
+                    "Brand Story Backfill JP",
+                    "Browse Node Defect",
+                    "COO Defect",
+                    "Bullet Point Defect",
+                    "Care Instructions Defect",
+                    "Color Defect",
+                    "Customer Love Remediation Attribute (Product Information)",
+                    "Customer Love Remediation Bullet Point",
+                    "Customer Love Remediation Title",
+                    "Material Defect",
+                    "Size Chart Defect",
+                    "Size Defect",
+                    "Title Defect",
+                    "TRA",
+                    "Variation Defect",
+                    "APLUS Defect",
+                    "Customer Love Remediation A+ Content",
+                    "Customer Love Remediation Image",
+                    "EU WTS",
+                    "Image Defect",
+                    "Product Description Defect"
+                ],
+                "Catalog Defect Reduction": [
+                    "JP Replenishment Category Sync",
+                    "JP SPB Seasonal Code Backfill",
+                    "ASIN Prelaunch Checklist (EU)",
+                    "Brand Code",
+                    "Fit Type",
+                    "GCORID",
+                    "Generic Keyword Defect",
+                    "GL/Category/Subcategory Defect",
+                    "Import Designation Defect",
+                    "Manufacturer Defect",
+                    "Number Of Items",
+                    "Product Type",
+                    "Website Display Attribute",
+                    "ASIN Update",
+                    "List Price Defect",
+                    "Replenishment Category",
+                    "ASIN Updates (Flojo)"
+                ]
+            }
+        },
+        "CPB": {
+            "Selection Development": {
+                "Global ASIN Creation": [
+                    "APB Localization",
+                    "ASIN Creation",
+                    "UPC/GTIN Creation",
+                    "Bills of Materials",
+                    "VMP- ASIN creation",
+                    "VMP Imaging Fix"
+                ],
+                "Detail Page Creation": [
+                    "Brand Store Creation and Maintenance",
+                    "Brand Story Upload",
+                    "DP Content Creation"
+                ],
+                "Global Vendor Code Creation": [
+                    "Dummy Vendor Code Creation",
+                    "Vendor Code Update",
+                    "Vendor On-Boarding"
+                ],
+                "Defect Free DP launch": [
+                    "Final DP Launch"
+                ],
+                "Initial PO Placement": [
+                    "PO Checklist and Creation",
+                    "Packaging Certification"
+                ]
+            },
+            "Selection Deprecation": {
+                "ASIN Deprecation": [
+                    "ASIN Deprecation",
+                    "Un-Deprecation"
+                ],
+                "VMP ASIN Un-VMP": [
+                    "VMP ASIN Un-VMP"
+                ]
+            },
+            "Selection Ramp": {
+                "Promotion Implementation": [
+                    "Coupon Creation",
+                    "Deal Creation",
+                    "Marketing/Deals"
+                ],
+                "VINE Enrollment": [
+                    "Vine Contract Creation"
+                ],
+                "PO Management": [
+                    "Buying Exclusion Removal",
+                    "Checking Inventory in Denali",
+                    "Manual Ordering & Diamond Ordering",
+                    "PO Management",
+                    "Chargebacks Deepdive"
+                ],
+                "DP Optimization": [
+                    "Customer Love Optimization A+ Content",
+                    "Customer Love Optimization Attribute",
+                    "Customer Love Optimization Bullet Point",
+                    "Customer Love Optimization Image",
+                    "Customer Love Optimization Title",
+                    "General DP Update Bullet Point",
+                    "General DP Update Image",
+                    "General DP Update Others",
+                    "General DP Update Title",
+                    "Paragon Catalog Update",
+                    "Paragon Image Update",
+                    "Paragon Video Update",
+                    "PDT SEO WTS Image",
+                    "PDT SEO WTS List Price Update",
+                    "PDT SEO WTS Others",
+                    "PDT SEO WTS Title",
+                    "PDT SEO WTS Variation",
+                    "Search Rank Improvement BP",
+                    "Search Rank Improvement GK",
+                    "Search Rank Improvement Title",
+                    "DP Optimization WTS Title",
+                    "DP Optimization WTS Bullet Point",
+                    "DP Optimization WTS Image",
+                    "DP Optimization WTS Others",
+                    "Document Upload"
+                ],
+                "VMP ASIN Pricing and Deal set up": [
+                    "VMP ASIN Pricing and Deals"
+                ],
+                "Brand Implementation": [
+                    "Key Attributes Value Generation",
+                    "Brand Change",
+                    "Brand Refresh"
+                ]
+            },
+            "Minimum Health Check": {
+                "Detail Page Defect Reduction": [
+                    "APLUS Defect",
+                    "Browse Node Defect",
+                    "Bullet Point Defect",
+                    "COO Defect",
+                    "Customer Love Remediation A+ Content",
+                    "Customer Love Remediation Attribute (Product Information)",
+                    "Customer Love Remediation Bullet Point",
+                    "Customer Love Remediation Image",
+                    "Customer Love Remediation Title",
+                    "Detail Page Defects EU5",
+                    "Detail Page Defects US",
+                    "Image Defect",
+                    "Perfect Launch Initiative",
+                    "Product Description Defect",
+                    "Title Defect",
+                    "TRA",
+                    "Variation Defect",
+                    "Size Defect",
+                    "Color Defect",
+                    "Material Defect"
+                ],
+                "Catalog Defect Reduction": [
+                    "ASIN Update",
+                    "Brand ID Defect",
+                    "Brand Name Defect",
+                    "GCORID",
+                    "Generic Keyword Defect",
+                    "GL/Category/Subcategory Defect",
+                    "Import Designation Defect",
+                    "List Price Defect",
+                    "Manufacturer Defect",
+                    "Program Member Defect",
+                    "Update Selection Central Attributes",
+                    "Number Of Items",
+                    "Replenishment Category"
+                ],
+                "Buyability Defect Reduction": [
+                    "Buyability",
+                    "Buyability - VMP",
+                    "Unbuyable ASIN Remediation"
+                ]
+            },
+            "Others": {
+                "Others": [
+                    "ASIN Dimension Audit",
+                    "FC Flip Notification",
+                    "Liquidation",
+                    "NeVa Widget",
+                    "SDS Upload",
+                    "Tech Spec",
+                    "Vendor Stock Level Outreach"
+                ]
+            }
+        },
+        "HPB": {
+            "Selection Development": {
+                "Global ASIN Creation": [
+                    "APB Localization",
+                    "Global ASIN Creation"
+                ],
+                "Detail Page Creation": [
+                    "Brand Store Creation and Maintenance",
+                    "DP Content Creation",
+                    "Detail Page Creation"
+                ],
+                "Defect Free DP launch": [
+                    "Final DP Launch",
+                    "Defect Free DP launch"
+                ],
+                "Global Vendor Code Creation": [
+                    "Global Vendor Code Creation",
+                    "GPE Addendum Check"
+                ],
+                "Initial PO Placement": [
+                    "Initial PO Placement"
+                ]
+            },
+            "GlobalX": {
+                "GlobalX-ASIN Creation": [
+                    "ASIN Set Up",
+                    "Variation Set Up"
+                ],
+                "GlobalX-DP Creation": [
+                    "DP Expansion"
+                ],
+                "GlobalX-DP Launch": [
+                    "DP Flip"
+                ],
+                "GlobalX-Vendor Code Creation": [
+                    "Vendor Code Creation"
+                ]
+            },
+            "Selection Deprecation": {
+                "ASIN Deprecation": [
+                    "ASIN Deprecation",
+                    "Un-Deprecation"
+                ]
+            },
+            "Selection Ramp": {
+                "Promotion Implementation": [
+                    "Coupon",
+                    "Deal Creation"
+                ],
+                "Featured Product": [
+                    "Featured Product Enrollment"
+                ],
+                "Value Pick": [
+                    "Value Pick"
+                ],
+                "VINE Enrollment": [
+                    "Vine Enrollment Precheck",
+                    "Vine On-Time Enrollment"
+                ],
+                "Virtual Bundle": [
+                    "Virtual Bundle"
+                ],
+                "Paid Social": [
+                    "Paid Social"
+                ],
+                "PO Management": [
+                    "CMP Forecast Vendor Communication",
+                    "Inventory Removal",
+                    "PO Management"
+                ],
+                "DP Optimization": [
+                    "Customer Love Optimization A+ Content",
+                    "Customer Love Optimization Attribute",
+                    "Customer Love Optimization Bullet Point",
+                    "Customer Love Optimization Image",
+                    "Customer Love Optimization Title",
+                    "General DP Update Bullet Point",
+                    "General DP Update Image",
+                    "General DP Update Others",
+                    "General DP Update Title",
+                    "General DP Update Variation",
+                    "Paragon Catalog Update",
+                    "Paragon Image Update",
+                    "Paragon Video Update",
+                    "PDT SEO WTS Bullet Points Update",
+                    "PDT SEO WTS Others",
+                    "PDT SEO WTS Title",
+                    "PDT SEO WTS Variation",
+                    "Search Rank Improvement BP",
+                    "Search Rank Improvement GK",
+                    "Search Rank Improvement Title",
+                    "DP Optimization WTS Title",
+                    "DP Optimization WTS Bullet Point",
+                    "DP Optimization WTS Image",
+                    "DP Optimization WTS Others",
+                    "PDT SEO WTS List Price Update",
+                    "Document Upload"
+                ],
+                "Brand Implementation": [
+                    "Key Attributes Value Generation",
+                    "Brand Change",
+                    "Brand Refresh"
+                ]
+            },
+            "Others": {
+                "Others": [
+                    "ASIN Dimension Audit"
+                ]
+            },
+            "Minimum Health Check": {
+                "Catalog Defect Reduction": [
+                    "ASIN Update",
+                    "GCORID",
+                    "Generic Keyword Defect",
+                    "GL/Category/Subcategory Defect",
+                    "List Price Defect",
+                    "Brand ID Defect",
+                    "Brand Name Defect",
+                    "Manufacturer Defect",
+                    "Number Of Items",
+                    "Replenishment Category"
+                ],
+                "Detail Page Defect Reduction": [
+                    "Browse Node Defect",
+                    "Bullet Point Defect",
+                    "Customer Love Remediation A+ Content",
+                    "Customer Love Remediation Attribute (Product Information)",
+                    "Customer Love Remediation Bullet Point",
+                    "Customer Love Remediation Image",
+                    "Customer Love Remediation Title",
+                    "DP Update",
+                    "Item Dimension & Weight Defect",
+                    "Title Defect",
+                    "Package Dimension & Weight Defect",
+                    "TRA",
+                    "Variation Defect",
+                    "COO Defect",
+                    "Product Description Defect",
+                    "Size Defect",
+                    "Color Defect",
+                    "Material Defect"
+                ]
+            }
+        }
+    }
+}
