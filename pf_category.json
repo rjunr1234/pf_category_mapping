@@ -398,6 +398,7 @@
                     "Coupon Creation",
                     "Deal Creation",
                     "Marketing/Deals"
+                    "VMP ASIN Pricing and Deals"
                 ],
                 "VINE Enrollment": [
                     "Vine Contract Creation"
@@ -435,9 +436,6 @@
                     "DP Optimization WTS Image",
                     "DP Optimization WTS Others",
                     "Document Upload"
-                ],
-                "VMP ASIN Pricing and Deal set up": [
-                    "VMP ASIN Pricing and Deals"
                 ],
                 "Brand Implementation": [
                     "Key Attributes Value Generation",
