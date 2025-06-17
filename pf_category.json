@@ -567,7 +567,8 @@
                 "PO Management": [
                     "CMP Forecast Vendor Communication",
                     "Inventory Removal",
-                    "PO Management"
+                    "PO Management",
+                    "PO Block Remediation"
                 ],
                 "DP Optimization": [
                     "Customer Love Optimization A+ Content",
