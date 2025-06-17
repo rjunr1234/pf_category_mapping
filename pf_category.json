@@ -4,7 +4,8 @@
             "Selection Ramp": {
                 "Pricing": [
                     "APB FOD ASINs Exclusive",
-                    "Peer ASIN Audit"
+                    "Peer ASIN Audit",
+                    "Top of Search Peer Audit"
                 ],
                 "DP Optimization": [
                     "PDT SEO WTS CMT Mapping",
@@ -38,7 +39,8 @@
                     "APB FOD ASINs Exclusive",
                     "CMT Intake(Audit/Match)",
                     "EUX List Price Synchronization",
-                    "Peer ASIN Audit"
+                    "Peer ASIN Audit",
+                    "Top of Search Peer Audit"
                 ],
                 "Promotion Implementation": [
                     "Deal Creation",
@@ -158,7 +160,8 @@
             "Selection Ramp": {
                 "Pricing": [
                     "APB FOD ASINs Exclusive",
-                    "Peer ASIN Audit"
+                    "Peer ASIN Audit",
+                    "Top of Search Peer Audit"
                 ],
                 "DP Optimization": [
                     "PDT SEO WTS CMT Mapping",
