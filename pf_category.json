@@ -52,6 +52,9 @@
                 "Virtual Bundle": [
                     "Virtual Bundle"
                 ],
+                "Paid Social": [
+                    "APB Paid Social"
+                ],
                 "PO Management": [
                     "CMP Forecast Vendor Communication",
                     "Document Co-Ordination",
@@ -176,6 +179,10 @@
                     "Key Attributes Value Generation",
                     "Brand Change",
                     "Brand Refresh"
+                ],
+                "Others": [
+                    "APB FP VP Enrollment Report",
+                    "APB Associate Handbook"
                 ]
             },
             "Others": {
@@ -248,6 +255,9 @@
                     "Key Attributes Value Generation",
                     "Brand Change",
                     "Brand Refresh"
+                ],
+                "Others": [
+                    "APB FP VP Enrollment Report"
                 ]
             },
             "Selection Development": {
@@ -405,7 +415,8 @@
                     "VMP ASIN Pricing and Deals"
                 ],
                 "VINE Enrollment": [
-                    "Vine Contract Creation"
+                    "Vine Contract Creation",
+                    "Vine On-Time Enrollment"
                 ],
                 "PO Management": [
                     "Buying Exclusion Removal",
@@ -499,7 +510,8 @@
                     "NeVa Widget",
                     "SDS Upload",
                     "Tech Spec",
-                    "Vendor Stock Level Outreach"
+                    "Vendor Stock Level Outreach",
+                    "APB FP VP Enrollment Report"
                 ]
             }
         },
@@ -566,7 +578,7 @@
                     "Virtual Bundle"
                 ],
                 "Paid Social": [
-                    "Paid Social"
+                    "APB Paid Social"
                 ],
                 "PO Management": [
                     "CMP Forecast Vendor Communication",
