@@ -118,6 +118,9 @@
                 ],
                 "GlobalX-DP Launch": [
                     "DP Flip"
+                ],
+                "GlobalX-PSLD Update": [
+                    "PSLD Update"
                 ]
             },
             "Selection Development": {
@@ -183,6 +186,11 @@
                 "Others": [
                     "APB FP VP Enrollment Report",
                     "APB Associate Handbook"
+                ]
+            },
+            "GlobalX": {
+                "GlobalX-PSLD Update": [
+                    "PSLD Update"
                 ]
             },
             "Others": {
@@ -312,6 +320,9 @@
                 ],
                 "GlobalX-DP Launch": [
                     "DP Flip"
+                ],
+                "GlobalX-PSLD Update": [
+                    "PSLD Update"
                 ]
             },
             "Selection Deprecation": {
@@ -552,6 +563,9 @@
                 ],
                 "GlobalX-Vendor Code Creation": [
                     "Vendor Code Creation"
+                ],
+                "GlobalX-PSLD Update": [
+                    "PSLD Update"
                 ]
             },
             "Selection Deprecation": {
@@ -623,7 +637,8 @@
             },
             "Others": {
                 "Others": [
-                    "ASIN Dimension Audit"
+                    "ASIN Dimension Audit",
+                    "APB FP VP Enrollment Report"
                 ]
             },
             "Minimum Health Check": {
