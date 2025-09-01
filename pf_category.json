@@ -196,6 +196,9 @@
             "GlobalX": {
                 "GlobalX-PSLD Update": [
                     "PSLD Update"
+                ],
+                "GlobalX-DP Creation": [
+                    "A+ Update"
                 ]
             },
             "Others": {
@@ -323,7 +326,12 @@
                 ],
                 "GlobalX-DP Creation": [
                     "GlobalX- Brand Story Upload",
-                    "GlobalX -Size Chart Upload"
+                    "GlobalX -Size Chart Upload",
+                    "Pricing Update",
+                    "DP Attributes Backfill",
+                    "Variation Setup",
+                    "A+ Update",
+                    "Size Chart Update"
                 ],
                 "GlobalX-DP Launch": [
                     "DP Flip"
