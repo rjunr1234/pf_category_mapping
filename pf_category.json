@@ -131,10 +131,14 @@
             "Selection Development": {
                 "Global ASIN Creation": [
                     "Catalog On-Boarding",
-                    "Net ASIN Creation"
+                    "Net ASIN Creation",
+                    "Vendor Offer Updater"
                 ],
                 "Initial PO Placement": [
                     "Packaging Certification"
+                ],
+                "Detail Page Creation": [
+                    "Brand Store Creation and Maintenance"
                 ]
             },
             "Minimum Health Check": {
