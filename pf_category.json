@@ -99,6 +99,13 @@
                 ],
                 "Featured Product": [
                     "Featured Product Enrollment"
+                ],
+                "Vine Enrollment ": [
+                    "Vine On-Time Enrollment",
+                    "APB Vine Enrollment Report"
+                ],
+                "Others": [
+                    "Onsite Events and Outbound"
                 ]
             },
             "Others": {
@@ -198,6 +205,11 @@
                 "Others": [
                     "APB FP VP Enrollment Report",
                     "APB Associate Handbook"
+                ],
+                "Vine Enrollment ": [
+                    "Vine Chaser",
+                    "Vine Contract Creation",
+                    "Vine Invoicing"
                 ]
             },
             "GlobalX": {
@@ -247,7 +259,7 @@
                     "PO Management (Flojo)",
                     "PO Management Recut"
                 ],
-                "VINE Enrollment": [
+                "Vine Enrollment": [
                     "Vine Chaser",
                     "Vine Invoicing"
                 ],
@@ -608,7 +620,8 @@
                 ],
                 "VINE Enrollment": [
                     "Vine Enrollment Precheck",
-                    "Vine On-Time Enrollment"
+                    "Vine On-Time Enrollment",
+                    "APB Vine Enrollment Report"
                 ],
                 "Virtual Bundle": [
                     "Virtual Bundle"
@@ -654,6 +667,9 @@
                     "Key Attributes Value Generation",
                     "Brand Change",
                     "Brand Refresh"
+                ],
+                "Others": [
+                    "Onsite Events and Outbound"
                 ]
             },
             "Others": {
