@@ -71,7 +71,8 @@
                     "Identify packaging optimization opportunities",
                     "HPB PO production tracking",
                     "Air Freight Operations",
-                    "APB MLC Adoption Process"
+                    "APB MLC Adoption Process",
+                    "Logistics Tracking"
                 ],
                 "DP Optimization": [
                     "General DP Update Bullet Point",
@@ -210,6 +211,9 @@
                     "Vine Chaser",
                     "Vine Contract Creation",
                     "Vine Invoicing"
+                ],
+                "PO Management": [
+                    "Logistics Tracking"
                 ]
             },
             "GlobalX": {
