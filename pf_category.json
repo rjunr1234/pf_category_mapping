@@ -138,6 +138,9 @@
                 ],
                 "GlobalX-PSLD Update": [
                     "PSLD Update"
+                ],
+                "GlobalX - Orbiter Update": [
+                    "Orbiter Update"
                 ]
             },
             "Selection Development": {
@@ -606,6 +609,9 @@
                 ],
                 "GlobalX-PSLD Update": [
                     "PSLD Update"
+                ],
+                "GlobalX - Orbiter Update": [
+                    "Orbiter Update"
                 ]
             },
             "Selection Deprecation": {
