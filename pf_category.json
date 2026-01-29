@@ -275,7 +275,8 @@
                     "Marketing Campaign Building (Gateway, Email, HQP)",
                     "Deal Creation",
                     "Coupon Creation",
-                    "MENA Deal Image"
+                    "MENA Deal Image",
+                    "Checkout Discount"
                 ],
                 "PO Management": [
                     "Addition To Ordering",
@@ -289,7 +290,9 @@
                 ],
                 "VINE Enrollment": [
                     "Vine Chaser",
-                    "Vine Invoicing"
+                    "Vine Invoicing",
+                    "Vine On-Time Enrollment",
+                    "Vine Contract Creation"
                 ],
                 "DP Optimization": [
                     "Customer Love Optimization A+ Content",
@@ -485,11 +488,13 @@
                     "Coupon Creation",
                     "Deal Creation",
                     "Marketing/Deals",
-                    "VMP ASIN Pricing and Deals"
+                    "VMP ASIN Pricing and Deals",
+                    "Checkout Discount"
                 ],
                 "VINE Enrollment": [
                     "Vine Contract Creation",
-                    "Vine On-Time Enrollment"
+                    "Vine On-Time Enrollment",
+                    "Vine Invoicing"
                 ],
                 "PO Management": [
                     "Buying Exclusion Removal",
@@ -642,7 +647,9 @@
             "Selection Ramp": {
                 "Promotion Implementation": [
                     "Coupon",
-                    "Deal Creation"
+                    "Deal Creation",
+                    "Coupon Creation",
+                    "Checkout Discount"
                 ],
                 "Featured Product": [
                     "Featured Product Enrollment"
@@ -653,7 +660,9 @@
                 "VINE Enrollment": [
                     "Vine Enrollment Precheck",
                     "Vine On-Time Enrollment",
-                    "APB Vine Enrollment Report"
+                    "APB Vine Enrollment Report",
+                    "Vine Contract Creation",
+                    "Vine Invoicing"
                 ],
                 "Virtual Bundle": [
                     "Virtual Bundle"
