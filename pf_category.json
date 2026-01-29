@@ -17,6 +17,16 @@
                     "Key Attributes Value Generation",
                     "Brand Change",
                     "Brand Refresh"
+                ],
+                "Promotion Implementation": [
+                    "Coupon Creation",
+                    "Deal Creation",
+                    "Checkout Discount"
+                ],
+                "Vine Enrollment ": [
+                    "Vine Contract Creation",
+                    "Vine On-Time Enrollment",
+                    "Vine Invoicing"
                 ]
             },
             "Minimum Health Check": {
@@ -47,7 +57,9 @@
                 ],
                 "Promotion Implementation": [
                     "Deal Creation",
-                    "Coupon"
+                    "Coupon",
+                    "Checkout Discount",
+                    "Deal Creation_JP"
                 ],
                 "Value Pick": [
                     "Value Pick"
@@ -104,7 +116,9 @@
                 ],
                 "VINE Enrollment": [
                     "Vine On-Time Enrollment",
-                    "APB Vine Enrollment Report"
+                    "APB Vine Enrollment Report",
+                    "Vine Contract Creation",
+                    "Vine Invoicing"
                 ],
                 "Others": [
                     "Onsite Events and Outbound"
@@ -201,7 +215,8 @@
                 ],
                 "Promotion Implementation": [
                     "Deal Creation",
-                    "Coupon Creation"
+                    "Coupon Creation",
+                    "Checkout Discount"
                 ],
                 "Brand Implementation": [
                     "Key Attributes Value Generation",
@@ -227,7 +242,11 @@
                 ],
                 "GlobalX-DP Creation": [
                     "A+ Update"
-                ]
+                ],
+                "GlobalX - DP Creation": [
+                    "DP attributes backfill",
+                    "Variation setup"
+                ]   
             },
             "Others": {
                 "PBC Externalization": [
