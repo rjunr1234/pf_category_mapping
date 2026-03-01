@@ -216,7 +216,8 @@
                 "Promotion Implementation": [
                     "Deal Creation",
                     "Coupon Creation",
-                    "Checkout Discount"
+                    "Checkout Discount",
+                    "Deal Creation_JP"
                 ],
                 "Brand Implementation": [
                     "Key Attributes Value Generation",
@@ -276,7 +277,8 @@
                     "Deal Creation",
                     "Coupon Creation",
                     "MENA Deal Image",
-                    "Checkout Discount"
+                    "Checkout Discount",
+                    "Deal Creation_JP"
                 ],
                 "PO Management": [
                     "Addition To Ordering",
