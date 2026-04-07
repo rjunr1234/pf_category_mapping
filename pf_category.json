@@ -31,7 +31,8 @@
                 "Traffic Implementation": [
                     "FP Eligibility",
                     "FP Reheating",
-                    "FP Override"
+                    "FP Override",
+                    "FP Denylist"
                 ]
             },
             "Minimum Health Check": {
@@ -127,7 +128,8 @@
                     "FP Reheating",
                     "FP Override",
                     "Onsite Events and Outbound",
-                    "APB Paid Social"
+                    "APB Paid Social",
+                    "FP Denylist"
                 ]
             },
             "Others": {
@@ -242,7 +244,8 @@
                     "FP Eligibility",
                     "FP Reheating",
                     "FP Override",
-                    "APB Associate Handbook"
+                    "APB Associate Handbook",
+                    "FP Denylist"
                 ]
             },
             "GlobalX": {
@@ -336,7 +339,8 @@
                 "Traffic Implementation": [
                     "FP Eligibility",
                     "FP Reheating",
-                    "FP Override"
+                    "FP Override",
+                    "FP Denylist"
                 ]
             },
             "Selection Development": {
@@ -550,7 +554,8 @@
                 "Traffic Implementation": [
                     "FP Eligibility",
                     "FP Reheating",
-                    "FP Override"
+                    "FP Override",
+                    "FP Denylist"
                 ]
             },
             "Minimum Health Check": {
@@ -728,7 +733,8 @@
                     "FP Reheating",
                     "FP Override",
                     "Onsite Events and Outbound",
-                    "APB Paid Social"
+                    "APB Paid Social",
+                    "FP Denylist"
                 ]
             },
             "Others": {
