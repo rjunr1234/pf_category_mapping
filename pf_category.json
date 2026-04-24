@@ -251,6 +251,9 @@
                     "Key Attributes Value Generation",
                     "Brand Change",
                     "Brand Refresh"
+                ],
+                "PO Management": [
+                    "PO Management"
                 ]
             },
             "Selection Development": {
@@ -395,6 +398,9 @@
                     "FP Reheating",
                     "FP Override",
                     "FP Denylist"
+                ],
+                "PO Management": [
+                    "PO Management"
                 ]
             },
             "Selection Development": {
@@ -563,6 +569,9 @@
                     "FP Reheating",
                     "FP Override",
                     "FP Denylist"
+                ],
+                "PO Management": [
+                    "PO Management"
                 ]
             },
             "Minimum Health Check": {
