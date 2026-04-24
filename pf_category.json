@@ -29,7 +29,8 @@
                     "FP Eligibility",
                     "FP Reheating",
                     "FP Override",
-                    "FP Denylist"
+                    "FP Denylist",
+                    "FP Analysis"
                 ]
             },
             "Minimum Health Check": {
@@ -102,7 +103,8 @@
                     "FP Eligibility",
                     "FP Reheating",
                     "FP Override",
-                    "FP Denylist"
+                    "FP Denylist",
+                    "FP Analysis"
                 ]
             },
             "GlobalX": {
@@ -196,7 +198,8 @@
                     "FP Eligibility",
                     "FP Reheating",
                     "FP Override",
-                    "FP Denylist"
+                    "FP Denylist",
+                    "FP Analysis"
                 ],
                 "VINE Enrollment": [
                     "Vine Contract Creation",
@@ -233,7 +236,8 @@
                     "FP Eligibility",
                     "FP Reheating",
                     "FP Override",
-                    "FP Denylist"
+                    "FP Denylist",
+                    "FP Analysis"
                 ],
                 "VINE Enrollment": [
                     "Vine Chaser",
@@ -397,7 +401,8 @@
                     "FP Eligibility",
                     "FP Reheating",
                     "FP Override",
-                    "FP Denylist"
+                    "FP Denylist",
+                    "FP Analysis"
                 ],
                 "PO Management": [
                     "PO Management"
@@ -569,7 +574,8 @@
                     "FP Eligibility",
                     "FP Reheating",
                     "FP Override",
-                    "FP Denylist"
+                    "FP Denylist",
+                    "FP Analysis"
                 ],
                 "PO Management": [
                     "PO Management"
