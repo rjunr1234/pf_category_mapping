@@ -451,7 +451,8 @@
                     "Size Defect",
                     "Color Defect",
                     "Material Defect",
-                    "Care Instructions Defect"
+                    "Care Instructions Defect",
+                    "DP Update"
                 ],
                 "Catalog Defect Reduction": [
                     "ASIN Update",
