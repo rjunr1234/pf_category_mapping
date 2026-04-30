@@ -4,7 +4,8 @@
             "Selection Ramp": {
                 "Pricing": [
                     "APB FOD ASINs Exclusive",
-                    "Peer ASIN Audit"
+                    "Peer ASIN Audit",
+                    "CMT Intake(Audit/Match)"
                 ],
                 "Brand Implementation": [
                     "Key Attributes Value Generation",
@@ -175,7 +176,8 @@
             "Selection Ramp": {
                 "Pricing": [
                     "APB FOD ASINs Exclusive",
-                    "Peer ASIN Audit"
+                    "Peer ASIN Audit",
+                    "CMT Intake(Audit/Match)"
                 ],
                 "Promotion Implementation": [
                     "Coupon Creation",
