@@ -326,11 +326,9 @@
             },
             "Minimum Health Check": {
                 "Buyability Defect Reduction": [
-                    "ASIN Buyability Checks (JP)",
                     "Buyability"
                 ],
                 "Detail Page Defect Reduction": [
-                    "Brand Story Backfill JP",
                     "Browse Node Defect",
                     "COO Defect",
                     "Bullet Point Defect",
@@ -347,8 +345,6 @@
                     "Product Description Defect"
                 ],
                 "Catalog Defect Reduction": [
-                    "JP Replenishment Category Sync",
-                    "JP SPB Seasonal Code Backfill",
                     "Brand Code",
                     "Fit Type",
                     "GCORID",
@@ -360,7 +356,8 @@
                     "Product Type",
                     "Website Display Attribute",
                     "ASIN Update",
-                    "List Price Defect"
+                    "List Price Defect",
+                    "JP Tasks"
                 ]
             }
         },
