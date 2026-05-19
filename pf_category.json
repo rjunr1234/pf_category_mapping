@@ -273,7 +273,8 @@
                     "MENA ASIN Creation",
                     "MENA ASIN Localization",
                     "Non-Apparel ASIN Creation",
-                    "Vendor Offer Updater"
+                    "Vendor Offer Updater",
+                    "ASIN Creation - Catalog Remediation"
                 ],
                 "Media Block Management": [
                     "Sample Management"
