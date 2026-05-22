@@ -258,7 +258,8 @@
                     "Brand Refresh"
                 ],
                 "PO Management": [
-                    "PO Management"
+                    "PO Management",
+                    "Replenishment ASIN Manual PO Generation"
                 ]
             },
             "Selection Development": {
