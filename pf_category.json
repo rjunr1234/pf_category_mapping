@@ -34,6 +34,23 @@
                     "FP Analysis"
                 ]
             },
+            "Selection Development": {
+                "Grocery Global ASIN Creation": [
+                    "UPC/GTIN Creation",
+                    "ASIN Creation",
+                    "Brand ID Stamping"
+                ],
+                "Grocery Defect Free DP Launch": [
+                    "Defect Free Audit and Remediation",
+                    "DP Launch"
+                ],
+                "Grocery Detail Page Creation": [
+                    "Detail Page Creation"
+                ],
+                "Grocery Global Vendor Code Creation": [
+                    "Vendor Code Creation"
+                ]
+            },
             "Minimum Health Check": {
                 "Catalog Defect Reduction": [
                     "Generic Keyword Defect"
