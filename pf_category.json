@@ -28,7 +28,10 @@
                 ],
                 "Traffic Implementation": [
                     "FP Eligibility",
-                    "FP Reheating",
+                    "FP Reheating CRR",
+                    "FP Reheating Back in Stock",
+                    "FP Reheating Undeprecated",
+                    "FP Reheating Seasonal",
                     "FP Override",
                     "FP Denylist",
                     "FP Analysis"
@@ -119,7 +122,10 @@
                     "APB Paid Social",
                     "Onsite Events and Outbound",
                     "FP Eligibility",
-                    "FP Reheating",
+                    "FP Reheating CRR",
+                    "FP Reheating Back in Stock",
+                    "FP Reheating Undeprecated",
+                    "FP Reheating Seasonal",
                     "FP Override",
                     "FP Denylist",
                     "FP Analysis"
@@ -215,7 +221,10 @@
                 "Traffic Implementation": [
                     "APB Associate Handbook",
                     "FP Eligibility",
-                    "FP Reheating",
+                    "FP Reheating CRR",
+                    "FP Reheating Back in Stock",
+                    "FP Reheating Undeprecated",
+                    "FP Reheating Seasonal",
                     "FP Override",
                     "FP Denylist",
                     "FP Analysis"
