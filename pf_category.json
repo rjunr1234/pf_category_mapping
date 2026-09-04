@@ -19,7 +19,8 @@
                 "Promotion Implementation": [
                     "Coupon Creation",
                     "Deal Creation",
-                    "Checkout Discount"
+                    "Checkout Discount",
+                    "Subscribe and Save"
                 ],
                 "VINE Enrollment": [
                     "Vine Contract Creation",
@@ -79,7 +80,8 @@
                     "Deal Creation",
                     "Coupon Creation",
                     "Checkout Discount",
-                    "Deal Creation_JP"
+                    "Deal Creation_JP",
+                    "Subscribe and Save"
                 ],
                 "VINE Enrollment": [
                     "APB Vine Enrollment Report",
@@ -206,7 +208,8 @@
                     "Coupon Creation",
                     "Deal Creation",
                     "Checkout Discount",
-                    "Deal Creation_JP"
+                    "Deal Creation_JP",
+                    "Subscribe and Save"
                 ],
                 "Brand Implementation": [
                     "Key Attributes Value Generation",
@@ -276,7 +279,8 @@
                     "Coupon Creation",
                     "Deal Creation",
                     "Checkout Discount",
-                    "Deal Creation_JP"
+                    "Deal Creation_JP",
+                    "Subscribe and Save"
                 ],
                 "Brand Implementation": [
                     "Key Attributes Value Generation",
@@ -396,7 +400,8 @@
                     "Coupon Creation",
                     "Deal Creation",
                     "VMP ASIN Pricing and Deals",
-                    "Checkout Discount"
+                    "Checkout Discount",
+                    "Subscribe and Save"
                 ],
                 "VINE Enrollment": [
                     "Vine Contract Creation",
@@ -568,7 +573,8 @@
                 "Promotion Implementation": [
                     "Deal Creation",
                     "Coupon Creation",
-                    "Checkout Discount"
+                    "Checkout Discount",
+                    "Subscribe and Save"
                 ],
                 "VINE Enrollment": [
                     "APB Vine Enrollment Report",
