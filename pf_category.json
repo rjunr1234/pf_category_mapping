@@ -510,6 +510,20 @@
                 "Buyability Defect Reduction": [
                     "Unbuyable ASIN Remediation"
                 ]
+            },
+            "GlobalX": {
+                "GlobalX-ASIN Creation": [
+                    "GlobalX-Localization",
+                ],
+                "GlobalX-DP Creation": [
+                    "Key Attributes Backfill",
+                ],
+                "GlobalX-Vendor Outreach": [
+                    "Vendor Outreach"
+                ],
+                "GlobalX - Troubleshooting": [
+                    "Troubleshooting"
+                ]
             }
         },
         "HPB": {
@@ -561,6 +575,9 @@
                 ],
                 "GlobalX - Troubleshooting": [
                     "Troubleshooting"
+                ],
+                "GlobalX-Vendor Outreach": [
+                    "Vendor Outreach"
                 ]
             },
             "Selection Deprecation": {
